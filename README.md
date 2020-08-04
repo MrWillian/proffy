@@ -86,7 +86,7 @@ Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 $ git clone https://github.com/leon-carvalho/proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw_proffy
+$ cd proffy
 
 # Vá para a pasta da aplicação Front End
 $ cd web
